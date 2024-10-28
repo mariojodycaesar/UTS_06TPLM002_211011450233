@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Flutter project untuk penilaian UTS (pembuatan tampilan pada weather)
 
 ## Getting Started
 
